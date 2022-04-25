@@ -21,7 +21,7 @@ global:
     clustername: rojo
     domain: igk.internal
 
-    #  edge:
-    #clustername: PLAINTEXT
-    #domain: PLAINTEXT
+  edge:
+    clustername: rojoedge
+    domain: igk.internal
 
