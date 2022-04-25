@@ -8,20 +8,20 @@ global:
 
   git:
     provider: github.com
-    account: PLAINTEXT
-    username: PLAINTEXT
-    email: EMAIL@EXAMPLE.COM
+    account: kamillipka
+    username: kamillipka
+    email: kamil.lipka@intel.com
     dev_revision: main
 
   quay:
     provider: quay.io
-    account: PLAINTEXT
+    account: kamil_lipka2
 
   datacenter:
-    clustername: PLAINTEXT
-    domain: PLAINTEXT
+    clustername: rojo
+    domain: igk.internal
 
-  edge:
-    clustername: PLAINTEXT
-    domain: PLAINTEXT
+    #  edge:
+    #clustername: PLAINTEXT
+    #domain: PLAINTEXT
 
